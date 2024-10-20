@@ -20,14 +20,14 @@ I graduted from Indian Institute of Technology Kanpur with a Bachelor of Technol
 Publications and Preprints
 =======
 **SIGMA: Secure GPT Inference with Function Secret Sharing** [[eprint]](https://eprint.iacr.org/2023/1269)
-Kanav Gupta, Neha Jawalkar, Ananta Mukherjee, Nishanth Chandran, Divya Gupta, Ashish Panwar, Rahul Sharma  
+Kanav Gupta, Neha Jawalkar, Ananta Mukherjee, Nishanth Chandran, Divya Gupta, Ashish Panwar, Rahul Sharma                                                                                   
 *PETS 2024*
 
 **Privacy Preserving Multi-Agent Reinforcement Learning in Supply Chains**  [[arxiv]](https://arxiv.org/abs/2312.05686)  
-Ananta Mukherjee, Peeyush Kumar, Boling Yang, Nishanth Chandran, Divya Gupta  
+Ananta Mukherjee, Peeyush Kumar, Boling Yang, Nishanth Chandran, Divya Gupta                   
 Preprint
 
 **Classification for Lexical Complexity Regression Task** [[aclanthology]](https://aclanthology.org/2021.semeval-1.66/)
-Neil Rajiv Shirude, Sagnik Mukherjee, Tushar Shandhilya, Ananta Mukherjee, Ashutosh Modi.
+Neil Rajiv Shirude, Sagnik Mukherjee, Tushar Shandhilya, Ananta Mukherjee, Ashutosh Modi        
 *SemEval 2021*
 
