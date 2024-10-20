@@ -27,4 +27,7 @@ Kanav Gupta, Neha Jawalkar, Ananta Mukherjee, Nishanth Chandran, Divya Gupta, As
 Ananta Mukherjee, Peeyush Kumar, Boling Yang, Nishanth Chandran, Divya Gupta  
 Preprint
 
+**Classification for Lexical Complexity Regression Task** [[aclanthology]](https://aclanthology.org/2021.semeval-1.66/)
+Neil Rajiv Shirude, Sagnik Mukherjee, Tushar Shandhilya, Ananta Mukherjee, Ashutosh Modi.
+*SemEval 2021*
 
