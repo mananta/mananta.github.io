@@ -13,7 +13,7 @@ My reserach interests lie in Theory and Foundations of Cryptography with an emph
 
 Previously I was a research fellow at Microsoft Research India, advised by [Dr. Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/) and [Dr. Peeyush Kumar](https://www.microsoft.com/en-us/research/people/pekumar/).
 
-I graduted from Indian Institute of Technology Kanpur with a Bachelor of Technology degree in Computer Science and Engineering in 2021, advised by [Prof. Raghunath Tewari](https://www.cse.iitk.ac.in/users/rtewari/).
+I graduted from Indian Institute of Technology Kanpur with a Bachelor of Technology degree in Computer Science and Engineering in 2021. I was fortunate to have [Prof. Raghunath Tewari](https://www.cse.iitk.ac.in/users/rtewari/) as my academic advisor.
 
 
 
