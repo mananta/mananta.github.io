@@ -9,9 +9,9 @@ redirect_from:
 
 I am an incoming PhD Student at the [Centre for Quantum Technologies](https://www.quantumlah.org/), National University of Singapore. I am fortunate to be advised by [Prof. Divesh Aggarwal](https://sites.google.com/site/diveshhomepage/).
 
-My reserach interests lie in Theory and Foundations of Cryptography with an emphasis on Lattice-based Post Quantum Cryptography and Theoretical Computer Science in general. 
+My research interests lie in Theory and Foundations of Cryptography with an emphasis on Lattice-based Post Quantum Cryptography and Theoretical Computer Science in general. 
 
-Previously I was a research fellow at Microsoft Research India, advised by [Dr. Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/) and [Dr. Peeyush Kumar](https://www.microsoft.com/en-us/research/people/pekumar/).
+Previously I was a Research Fellow at Microsoft Research India, advised by [Dr. Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/) and [Dr. Peeyush Kumar](https://www.microsoft.com/en-us/research/people/pekumar/). Before that I spent one year as a Software Engineer at Microsoft IDC.
 
 I graduted from Indian Institute of Technology Kanpur with a Bachelor of Technology degree in Computer Science and Engineering in 2021. I was fortunate to have [Prof. Raghunath Tewari](https://www.cse.iitk.ac.in/users/rtewari/) as my academic advisor.
 
