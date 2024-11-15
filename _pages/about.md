@@ -16,6 +16,7 @@ Previously I was a Research Fellow at Microsoft Research India, advised by [Dr. 
 I graduated from Indian Institute of Technology Kanpur with a Bachelor of Technology degree in Computer Science and Engineering in 2021. I was fortunate to have [Prof. Raghunath Tewari](https://www.cse.iitk.ac.in/users/rtewari/) as my academic advisor.
 
 Contact: a [dot] mukherjee [At] u [dot] nus [dot] edu, mukherjeea [dot] acads [At] gmail [dot] com
+
 Office: A02, COM3-02-18 NUS
 
 
