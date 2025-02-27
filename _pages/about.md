@@ -29,8 +29,7 @@ Publications, Preprints and Patents
 Kanav Gupta, Neha Jawalkar, Ananta Mukherjee, Nishanth Chandran, Divya Gupta, Ashish Panwar, Rahul Sharma                                                                                   
 *PETS 2024*
 
-**Privacy Preserving Multi-Agent Reinforcement Learning in Supply Chains**  [[arxiv]](https://arxiv.org/abs/2312.05686)  
-Ananta Mukherjee, Peeyush Kumar, Boling Yang, Nishanth Chandran, Divya Gupta                   
+**Privacy Preserving Multi-Agent Reinforcement Learning in Supply Chains**  [[arxiv]](https://arxiv.org/abs/2312.05686)  Ananta Mukherjee, Peeyush Kumar, Boling Yang, Nishanth Chandran, Divya Gupta                   
 Preprint
 
 **Classification for Lexical Complexity Regression Task** [[aclanthology]](https://aclanthology.org/2021.semeval-1.66/)
