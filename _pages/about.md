@@ -22,7 +22,7 @@ Office: A02, COM3-02-18 NUS
 
 Publications, Preprints and Patents
 =======
-**Privacy preserving multi-agent decision making** Peeyush Kumar, Ananta Mukherjee, Boling Yang, Nishanth Chandran, Divya Gupta
+**Privacy preserving multi-agent decision making** Peeyush Kumar, Ananta Mukherjee, Boling Yang, Nishanth Chandran, Divya Gupta                                                           
 *US Patent App. 18/474,519, 2025*
 
 **SIGMA: Secure GPT Inference with Function Secret Sharing** [[eprint]](https://eprint.iacr.org/2023/1269)
