@@ -19,7 +19,7 @@ Contact: a [dot] mukherjee [At] u [dot] nus [dot] edu, mukherjeea [dot] acads [A
 
 Office: A02, COM3-02-18 NUS
 
-[CV](https://drive.google.com/file/d/1eZnk-39i9vssiloKtGDbULkFE0OYK-0M/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1YE4Rpdto9V50fHhdAXiriXgm4yr2ZnLZ/view?usp=sharing)
 
 Publications, Preprints and Patents
 =======
