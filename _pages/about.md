@@ -19,11 +19,11 @@ Contact: a [dot] mukherjee [At] u [dot] nus [dot] edu, mukherjeea [dot] acads [A
 
 Office: A02, COM3-02-18 NUS
 
-[CV](https://drive.google.com/file/d/1nCX8aGXPHrKSOAm74ZvrLgRHN9_lMbGt/view?usp=sharing)
+[CV](https://drive.google.com/file/d/1TLADjIfPDn9XLYr5ohaB9a7FPT5qJSVf/view?usp=sharing)
 
 Publications, Preprints and Patents
 =======
-**Privacy preserving multi-agent decision making** Peeyush Kumar, Ananta Mukherjee, Boling Yang, Nishanth Chandran, Divya Gupta                                                           
+**Privacy preserving multi-agent decision making** [[patent]](https://patents.google.com/patent/US20250037072A1/en) Peeyush Kumar, Ananta Mukherjee, Boling Yang, Nishanth Chandran, Divya Gupta                                                           
 *US Patent App. 18/474,519, 2025*
 
 **SIGMA: Secure GPT Inference with Function Secret Sharing** [[eprint]](https://eprint.iacr.org/2023/1269)
@@ -39,5 +39,5 @@ Neil Rajiv Shirude, Sagnik Mukherjee, Tushar Shandhilya, Ananta Mukherjee, Ashut
 
 Professional Services
 =======
-1. Member of the Student Area Search Committee, Computer Security Research Area, for 2025 faculty recruitment at the [School of Computing, NUS](https://www.comp.nus.edu.sg/).
+1. Member of the Students' Area Search Committee, Computer Security and Cryptography Research Area, for 2025 faculty recruitment at the [School of Computing, NUS](https://www.comp.nus.edu.sg/).
 2. External Reviewer: Eurocrypt 2025
