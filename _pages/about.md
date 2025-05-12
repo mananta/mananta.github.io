@@ -43,7 +43,7 @@ Neil Rajiv Shirude, Sagnik Mukherjee, Tushar Shandhilya, Ananta Mukherjee, Ashut
 
 Talks
 =======
-**Fully Homomorphic Encryption, Bootstrapping, Circular Security and Beyond** 
+**Fully Homomorphic Encryption, Bootstrapping, Circular Security and Beyond**   
 Divesh's Group Seminar, COM3-02-70, 24 January 2025, 2:00 PM
 
 Professional Services
