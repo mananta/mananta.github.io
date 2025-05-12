@@ -23,7 +23,8 @@ Office: A02, COM3-02-18 NUS
 
 Publications and Manuscripts
 =======
-**Simulating Noisy Leakage with Bounded Leakage: Simpler, Better, Faster**  Ananta Mukherjee, Maciej Obremski, Joao Ribeiro, Lawrence Roy, Francois-Xavier Standaert, Daniele Venturi.
+**Simulating Noisy Leakage with Bounded Leakage: Simpler, Better, Faster**  
+Ananta Mukherjee, Maciej Obremski, Joao Ribeiro, Lawrence Roy, Francois-Xavier Standaert, Daniele Venturi
 Manuscript
 
 **Privacy preserving multi-agent decision making** [[patent]](https://patents.google.com/patent/US20250037072A1/en) Peeyush Kumar, Ananta Mukherjee, Boling Yang, Nishanth Chandran, Divya Gupta                                                           
