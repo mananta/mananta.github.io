@@ -24,7 +24,7 @@ Office: A02, COM3-02-18 NUS
 Publications and Manuscripts
 =======
 **Simulating Noisy Leakage with Bounded Leakage: Simpler, Better, Faster**  
-Ananta Mukherjee, Maciej Obremski, Joao Ribeiro, Lawrence Roy, Francois-Xavier Standaert, Daniele Venturi
+Ananta Mukherjee, Maciej Obremski, Joao Ribeiro, Lawrence Roy, Francois-Xavier Standaert, Daniele Venturi   
 Manuscript
 
 **Privacy preserving multi-agent decision making** [[patent]](https://patents.google.com/patent/US20250037072A1/en) Peeyush Kumar, Ananta Mukherjee, Boling Yang, Nishanth Chandran, Divya Gupta                                                           
@@ -41,7 +41,12 @@ Preprint
 Neil Rajiv Shirude, Sagnik Mukherjee, Tushar Shandhilya, Ananta Mukherjee, Ashutosh Modi        
 *SemEval 2021*
 
+Talks
+=======
+**Fully Homomorphic Encryption, Bootstrapping, Circular Security and Beyond** 
+Divesh's Group Seminar, COM3-02-70, 24 January 2025, 2:00 PM
+
 Professional Services
 =======
 1. Member of the Students' Area Search Committee, Computer Security and Cryptography Research Area, for 2025 faculty recruitment at the [School of Computing, NUS](https://www.comp.nus.edu.sg/).
-2. External Reviewer: Eurocrypt 2025
+2. External Reviewer: Eurocrypt 2025, ITC 2025
