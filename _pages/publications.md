@@ -5,7 +5,10 @@ author_profile: true
 navy_links: true
 ---
 
-† authors are mentioned in the alphabetical order of their surnames
+<div class="publication-list" markdown="1">
+
+†: authors are mentioned in the alphabetical order of their surnames, as per the convention of theoretical computer science and mathematics.<br />
+◇: authors are mentioned in the order of contribution.
 
 **Beyond the Input-Length Barrier: AND and OT
 Complexity of Two-Party Computation**<sup>†</sup>.
@@ -25,18 +28,20 @@ Yu Chen, Ananta Mukherjee, Mingyang Yang<br />
 Julien Béguinot, Ananta Mukherjee, Maciej Obremski, Joao Ribeiro, Lawrence Roy, Francois-Xavier Standaert, Daniele Venturi<br />
 *ASIACRYPT 2026*
 
-**Privacy preserving multi-agent decision making**. [[patent]](https://patents.google.com/patent/US20250037072A1/en)<br />
+**Privacy preserving multi-agent decision making**<sup>◇</sup>. [[patent]](https://patents.google.com/patent/US20250037072A1/en)<br />
 Peeyush Kumar, Ananta Mukherjee, Boling Yang, Nishanth Chandran, Divya Gupta<br />
 *US Patent App. 18/474,519, 2025*
 
-**SIGMA: Secure GPT Inference with Function Secret Sharing**. [[eprint]](https://eprint.iacr.org/2023/1269) [[conference]](https://petsymposium.org/popets/2024/popets-2024-0107.php).<br />
+**SIGMA: Secure GPT Inference with Function Secret Sharing**<sup>◇</sup>. [[eprint]](https://eprint.iacr.org/2023/1269) [[conference]](https://petsymposium.org/popets/2024/popets-2024-0107.php).<br />
 Kanav Gupta, Neha Jawalkar, Ananta Mukherjee, Nishanth Chandran, Divya Gupta, Ashish Panwar, Rahul Sharma<br />
 *PETS 2024*
 
-**Privacy Preserving Multi-Agent Reinforcement Learning in Supply Chains**. [[arxiv]](https://arxiv.org/abs/2312.05686).<br />
+**Privacy Preserving Multi-Agent Reinforcement Learning in Supply Chains**<sup>◇</sup>. [[arxiv]](https://arxiv.org/abs/2312.05686).<br />
 Ananta Mukherjee, Peeyush Kumar, Boling Yang, Nishanth Chandran, Divya Gupta<br />
 Manuscript
 
-**Classification for Lexical Complexity Regression Task**. [[aclanthology]](https://aclanthology.org/2021.semeval-1.66/)<br />
+**Classification for Lexical Complexity Regression Task**<sup>◇</sup>. [[aclanthology]](https://aclanthology.org/2021.semeval-1.66/)<br />
 Neil Rajiv Shirude, Sagnik Mukherjee, Tushar Shandhilya, Ananta Mukherjee, Ashutosh Modi<br />
 *SemEval 2021*
+
+</div>
