@@ -32,7 +32,7 @@ Complexity of Two-Party Computation**<sup>†</sup>.
 Divesh Aggarwal, Rishav Gupta, Ananta Mukherjee, Maciej Obresmski, Hai H. Nguyen.<br />
 *Under Submission*
 
-**Quantum Fire with Delegated Cloning**<sup>†</sup>. [[arxiv]](https://arxiv.org/abs/2609.37091).<br />
+**Quantum Fire with Delegated Cloning**<sup>†</sup>. [[arxiv]](https://arxiv.org/abs/2610.03593).<br />
 Rohit Chatterjee, Ananta Mukherjee, Vir Pathak, Supartha Podder<br />
 *Under Submission*
 
