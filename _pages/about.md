@@ -9,7 +9,7 @@ redirect_from:
 
 I am a 3rd year PhD Student at the [Centre for Quantum Technologies](https://www.quantumlah.org/), [National University of Singapore](https://www.nus.edu.sg/) funded by the [National Quantum Scholarship Scheme (NQSS)](https://nqo.sg/talent-development/scholarships-opportunities/). I am fortunate to be advised by [Prof. Divesh Aggarwal](https://sites.google.com/site/diveshhomepage/) and [Prof. Maciej Obremski](https://sites.google.com/view/maciejobremski).
 
-My research interest lies in Cryptography, Quantum Computing and Theoretical Computer Science in general.
+My research interest lies in Cryptography, Quantum Computing and Theoretical Computer Science in general. 
 
 Previously I was a Research Fellow at Microsoft Research India, advised by [Dr. Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/) and [Dr. Peeyush Kumar](https://www.microsoft.com/en-us/research/people/pekumar/). Before that I spent one year as a Software Engineer at Microsoft IDC, in the Azure Specialized group.
 
@@ -19,7 +19,7 @@ Contact: a [dot] mukherjee [At] u [dot] nus [dot] edu, mukherjeea [dot] acads [A
 
 Office: A02, COM3-02-18 NUS
 
-[CV](https://drive.google.com/file/d/1TLADjIfPDn9XLYr5ohaB9a7FPT5qJSVf/view?usp=sharing)
+<!-- [CV](https://drive.google.com/file/d/1TLADjIfPDn9XLYr5ohaB9a7FPT5qJSVf/view?usp=sharing) -->
 
 Publications and Manuscripts
 =======
