@@ -2,6 +2,18 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+.home {
+  a:any-link,
+  a:any-link:hover {
+    color: navy;
+    text-decoration: none;
+  }
+
+  .greedy-nav .visible-links a::before {
+    content: none;
+  }
+}
+
 #main {
   @include container;
   @include clearfix;
