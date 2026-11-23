@@ -12,9 +12,12 @@ I am a 3rd year PhD Student at the [Centre for Quantum Technologies](https://www
 
 My research interest lies in Cryptography, Quantum Computing and Theoretical Computer Science in general. 
 
-Previously I was a Research Fellow at Microsoft Research India, advised by [Dr. Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/) and [Dr. Peeyush Kumar](https://www.microsoft.com/en-us/research/people/pekumar/). Before that I spent one year as a Software Engineer at Microsoft IDC, in the Azure Specialized group.
+Previously I was a pre-doctoral Research Fellow at Microsoft Research India working on Secure Multi Party Computation.
+ <!-- advised by [Dr. Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/) and [Dr. Peeyush Kumar](https://www.microsoft.com/en-us/research/people/pekumar/).  -->
+ Before that I spent one year as a Software Engineer at Microsoft IDC, Bengaluru, in the Azure Specialized group.
 
-I graduated from Indian Institute of Technology Kanpur, department of Computer Science and Engineering [(IITK-CSE)](https://www.cse.iitk.ac.in/) with a Bachelor of Technology degree in CSE in 2021. I was fortunate to have [Prof. Raghunath Tewari](https://www.cse.iitk.ac.in/users/rtewari/) as my academic advisor.
+I did my Bachelor of Technology from the Indian Institute of Technology Kanpur, department of Computer Science and Engineering [(IITK-CSE)](https://www.cse.iitk.ac.in/).
+<!-- with a Bachelor of Technology degree in CSE in 2021. I was fortunate to have [Prof. Raghunath Tewari](https://www.cse.iitk.ac.in/users/rtewari/) as my academic advisor. -->
 
 Contact: a [dot] mukherjee [At] u [dot] nus [dot] edu, mukherjeea [dot] acads [At] gmail [dot] com
 
