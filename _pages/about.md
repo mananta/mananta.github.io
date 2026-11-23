@@ -24,21 +24,23 @@ Office: A02, COM3-02-18 NUS
 Publications and Manuscripts
 =======
 
+† authors are mentioned in the alphabetical order of their surnames
+
 **Beyond the Input-Length Barrier: AND and OT
-Complexity of Two-Party Computation**.
+Complexity of Two-Party Computation**<sup>†</sup>.
 [[Talk]](https://www.youtube.com/playlist?list=PLeH9pRzc0vhc)<br />
 Divesh Aggarwal, Rishav Gupta, Ananta Mukherjee, Maciej Obresmski, Hai H. Nguyen.<br />
 *Under Submission*
 
-**Quantum Fire with Delegated Cloning**. [[arxiv]](https://arxiv.org/abs/2609.37091).<br />
+**Quantum Fire with Delegated Cloning**<sup>†</sup>. [[arxiv]](https://arxiv.org/abs/2609.37091).<br />
 Rohit Chatterjee, Ananta Mukherjee, Vir Pathak, Supartha Podder<br />
 *Under Submission*
 
-**Quantum Query Lower Bounds for Triangle-Listing and Spanners** [[arxiv]](https://arxiv.org/abs/2609.37091).<br />
+**Quantum Query Lower Bounds for Triangle-Listing and Spanners**<sup>†</sup> [[arxiv]](https://arxiv.org/abs/2609.37091).<br />
 Yu Chen, Ananta Mukherjee, Mingyang Yang<br />
 *ITCS 2027*
 
-**Simulating Noisy Leakage with Bounded Leakage: Simpler, Better, Faster**. [[eprint]](https://eprint.iacr.org/2026/357).<br />
+**Simulating Noisy Leakage with Bounded Leakage: Simpler, Better, Faster**<sup>†</sup>. [[eprint]](https://eprint.iacr.org/2026/357).<br />
 Julien Béguinot, Ananta Mukherjee, Maciej Obremski, Joao Ribeiro, Lawrence Roy, Francois-Xavier Standaert, Daniele Venturi<br />
 *ASIACRYPT 2026*
 
