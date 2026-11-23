@@ -25,40 +25,37 @@ Publications and Manuscripts
 =======
 
 **Beyond the Input-Length Barrier: AND and OT
-Complexity of Two-Party Computation**. [[Talk]](https://www.youtube.com/playlist?list=PLeH9pRzc0vhc)
-Divesh Aggarwal, Rishav Gupta, Ananta Mukherjee, Maciej Obresmski, Hai H. Nguyen. 
-
+Complexity of Two-Party Computation**.
+[[Talk]](https://www.youtube.com/playlist?list=PLeH9pRzc0vhc) \                                          
+Divesh Aggarwal, Rishav Gupta, Ananta Mukherjee, Maciej Obresmski, Hai H. Nguyen.\                                                     
 *Under Submission*
 
-**Quantum Fire with Delegated Cloning**. [[arxiv]](https://arxiv.org/abs/2609.37091). 
-Rohit Chatterjee, Ananta Mukherjee, Vir Pathak, Supartha Podder
-
+**Quantum Fire with Delegated Cloning**. [[arxiv]](https://arxiv.org/abs/2609.37091).\                                                            
+Rohit Chatterjee, Ananta Mukherjee, Vir Pathak, Supartha Podder\         
 *Under Submission*
 
-**Quantum Query Lower Bounds for Triangle-Listing and Spanners** [[arxiv]](https://arxiv.org/abs/2609.37091).         
-Yu Chen, Ananta Mukherjee, Mingyang Yang
-
+**Quantum Query Lower Bounds for Triangle-Listing and Spanners** [[arxiv]](https://arxiv.org/abs/2609.37091). \                             
+Yu Chen, Ananta Mukherjee, Mingyang Yang\                               
 *ITCS 2027*
 
-**Simulating Noisy Leakage with Bounded Leakage: Simpler, Better, Faster**. [[eprint]](https://eprint.iacr.org/2026/357).
-Julien Béguinot, Ananta Mukherjee, Maciej Obremski, Joao Ribeiro, Lawrence Roy, Francois-Xavier Standaert, Daniele Venturi   
-
+**Simulating Noisy Leakage with Bounded Leakage: Simpler, Better, Faster**. [[eprint]](https://eprint.iacr.org/2026/357).\                
+Julien Béguinot, Ananta Mukherjee, Maciej Obremski, Joao Ribeiro, Lawrence Roy, Francois-Xavier Standaert, Daniele Venturi\  
 *ASIACRYPT 2026*
 
-**Privacy preserving multi-agent decision making**. [[patent]](https://patents.google.com/patent/US20250037072A1/en)
-Peeyush Kumar, Ananta Mukherjee, Boling Yang, Nishanth Chandran, Divya Gupta                                                           
+**Privacy preserving multi-agent decision making**. [[patent]](https://patents.google.com/patent/US20250037072A1/en)\
+Peeyush Kumar, Ananta Mukherjee, Boling Yang, Nishanth Chandran, Divya Gupta\                                                           
 *US Patent App. 18/474,519, 2025*
 
-**SIGMA: Secure GPT Inference with Function Secret Sharing**. [[eprint]](https://eprint.iacr.org/2023/1269) [[conference]](https://petsymposium.org/popets/2024/popets-2024-0107.php).     
-Kanav Gupta, Neha Jawalkar, Ananta Mukherjee, Nishanth Chandran, Divya Gupta, Ashish Panwar, Rahul Sharma                                                                                   
+**SIGMA: Secure GPT Inference with Function Secret Sharing**. [[eprint]](https://eprint.iacr.org/2023/1269) [[conference]](https://petsymposium.org/popets/2024/popets-2024-0107.php).\    
+Kanav Gupta, Neha Jawalkar, Ananta Mukherjee, Nishanth Chandran, Divya Gupta, Ashish Panwar, Rahul Sharma\
 *PETS 2024*
 
-**Privacy Preserving Multi-Agent Reinforcement Learning in Supply Chains**. [[arxiv]](https://arxiv.org/abs/2312.05686).    
-Ananta Mukherjee, Peeyush Kumar, Boling Yang, Nishanth Chandran, Divya Gupta                   
+**Privacy Preserving Multi-Agent Reinforcement Learning in Supply Chains**. [[arxiv]](https://arxiv.org/abs/2312.05686).\
+Ananta Mukherjee, Peeyush Kumar, Boling Yang, Nishanth Chandran, Divya Gupta\                   
 Manuscript
 
-**Classification for Lexical Complexity Regression Task**. [[aclanthology]](https://aclanthology.org/2021.semeval-1.66/)
-Neil Rajiv Shirude, Sagnik Mukherjee, Tushar Shandhilya, Ananta Mukherjee, Ashutosh Modi        
+**Classification for Lexical Complexity Regression Task**. [[aclanthology]](https://aclanthology.org/2021.semeval-1.66/)\
+Neil Rajiv Shirude, Sagnik Mukherjee, Tushar Shandhilya, Ananta Mukherjee, Ashutosh Modi\        
 *SemEval 2021*
 
 <!-- Talks
