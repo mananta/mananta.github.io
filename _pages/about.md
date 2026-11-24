@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 3rd year PhD Student at the [Centre for Quantum Technologies](https://www.quantumlah.org/), [National University of Singapore](https://www.nus.edu.sg/) funded by the [National Quantum Scholarship Scheme (NQSS)](https://nqo.sg/talent-development/scholarships-opportunities/). I am fortunate to be advised by [Prof. Divesh Aggarwal](https://sites.google.com/site/diveshhomepage/) and [Prof. Maciej Obremski](https://sites.google.com/view/maciejobremski).
 
-My research interest lies in Cryptography, Quantum Computing and Theoretical Computer Science in general. 
+My research interest lies in Cryptography, Quantum Computing and Theoretical Computer Science in general. I like to think about Quantum Query Complexity, Cryptographic possibilities in a quantum world and their implications and Secure Computation.
 
 Previously I was a pre-doctoral Research Fellow at Microsoft Research India working on Secure Multi Party Computation.
  <!-- advised by [Dr. Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/) and [Dr. Peeyush Kumar](https://www.microsoft.com/en-us/research/people/pekumar/).  -->
