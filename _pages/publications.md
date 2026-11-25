@@ -13,7 +13,7 @@ navy_links: true
 **Beyond the Input-Length Barrier: AND and OT
 Complexity of Two-Party Computation**<sup>†</sup>.
 [[Talk]](https://www.youtube.com/playlist?list=PLeH9pRzc0vhc)<br />
-Divesh Aggarwal, Rishav Gupta, Ananta Mukherjee, Maciej Obresmski, Hai H. Nguyen.<br />
+Divesh Aggarwal, Rishav Gupta, Ananta Mukherjee, Hai H. Nguyen, Maciej Obresmski .<br />
 *Under Submission*
 
 **Quantum Fire with Delegated Cloning**<sup>†</sup>. [[arxiv]](https://arxiv.org/abs/2610.03593). [[Talk]](https://www.youtube.com/watch?v=-E8Gut4PnwQ&t=0s)<br />
