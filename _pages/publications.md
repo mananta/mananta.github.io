@@ -11,8 +11,7 @@ navy_links: true
 ◇: authors are mentioned in the order of contribution.
 
 **Beyond the Input-Length Barrier: AND and OT
-Complexity of Two-Party Computation**<sup>†</sup>.
-[[Talk]](https://www.youtube.com/playlist?list=PLeH9pRzc0vhc)<br />
+Complexity of Two-Party Computation**<sup>†</sup>. [[eprint]](https://eprint.iacr.org/2026/3038.pdf). [[Talk]](https://www.youtube.com/playlist?list=PLeH9pRzc0vhc)<br />
 Divesh Aggarwal, Rishav Gupta, Ananta Mukherjee, Hai H. Nguyen, Maciej Obremski .<br />
 *Under Submission*
 
